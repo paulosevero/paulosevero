@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1>Hi! 👋</h1>
 
-<!--
-**paulosevero/paulosevero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My (full) name is **Paulo Silas Severo de Souza**. I'm a Ph.D. Candidate in Computer Science at PUCRS (Brazil).
 
-Here are some ideas to get you started:
+My research interest lies primarily in the fields of computational resource management and algorithms. I’m currently working on research projects related to **Cloud Computing**, **Edge Computing**, and **Computer Networks**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+You can find more about my education and social links below.
+
+## Education
+
+### Ph.D. in Computer Science
+- **Period:** 2020 (March) to 2023 (August)
+- **Institution:** [Pontifical Catholic University of Rio Grande do Sul (PUCRS)](https://www.pucrs.br/en/)
+- **Title:** [Minimizing Latency and Maintenance Time during Server Updates on Edge Computing Infrastructures](https://tede2.pucrs.br/)
+
+### M.Sc. in Computer Science
+- **Period:** 2018 (March) to 2020 (March)
+- **Institution:** [Pontifical Catholic University of Rio Grande do Sul (PUCRS)](https://www.pucrs.br/en/)
+- **Title:** [A Heuristic Algorithm for Minimizing Server Maintenance Time and Vulnerability Surface on Data Centers](https://tede2.pucrs.br/tede2/bitstream/tede/9522/2/PAULO%20SILAS%20SEVERO%20DE%20SOUZA_DIS.pdf)
+
+### Technologist Degree in Systems Analysis and Development
+- **Period:** 2015 (March) to 2017 (December)
+- **Institution:** [Federal Institute Farroupilha (IFFar)](https://www.iffarroupilha.edu.br/portal?view=default)
+- **Title:** [Performance-Aware Energy-Efficient Process Grouping for Embedded Platform](https://doi.org/10.1109/ISCC.2018.8538753)
+
+## Contact
+
+- **Website:** [paulosevero.github.io](paulosevero.github.io)
+- **Email:** paulo.severo@edu.pucrs.br
+- **Google Scholar Profile:** [https://scholar.google.com/citations?hl=en&user=2TIpYeoAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=2TIpYeoAAAAJ&view_op=list_works&sortby=pubdate)
+- **LinkedIn:** [https://linkedin.com/in/paulosevero](https://linkedin.com/in/paulosevero)
