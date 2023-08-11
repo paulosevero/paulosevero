@@ -27,7 +27,7 @@ You can find more about my education and social links below.
 
 ## Contact
 
-- **Website:** [paulosevero.github.io](paulosevero.github.io)
+- **Website:** [paulosevero.github.io](https://paulosevero.github.io/)
 - **Email:** paulo.severo@edu.pucrs.br
 - **Google Scholar Profile:** [https://scholar.google.com/citations?hl=en&user=2TIpYeoAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=2TIpYeoAAAAJ&view_op=list_works&sortby=pubdate)
 - **Curriculum Lattes (Portuguese Only):** [http://lattes.cnpq.br/2653484244901352](http://lattes.cnpq.br/2653484244901352)
