@@ -1,8 +1,8 @@
 <h1>Hi! 👋</h1>
 
-My (full) name is **Paulo Silas Severo de Souza**. I'm a Ph.D. Candidate in Computer Science at PUCRS (Brazil).
+My (full) name is **Paulo Silas Severo de Souza**. I'm a research scientist working in the field of Computer Science.
 
-My research interest lies primarily in the fields of computational resource management and algorithms. I’m currently working on research projects related to **Cloud Computing**, **Edge Computing**, and **Computer Networks**.
+My research interest lies primarily in the fields of computational resource management and algorithms. I’m currently working on research projects related to **Cloud Computing** and **Edge Computing**.
 
 <br>
 
