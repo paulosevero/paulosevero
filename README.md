@@ -1,8 +1,8 @@
 <h1>Hi! 👋</h1>
 
-My (full) name is **Paulo Silas Severo de Souza**. I'm a research scientist working in the field of Computer Science.
+My (full) name is **Paulo Silas Severo de Souza**. I’m an Assistant Professor (tenure-track) in the Department of Computer Science at the Federal University of Pampa (UNIPAMPA), Brazil.
 
-My research interest lies primarily in the fields of computational resource management and algorithms. I’m currently working on research projects related to **Cloud Computing** and **Edge Computing**.
+As a scientist, I’m broadly interested in all aspects of resource management, and particularly in **cloud computing** and **edge computing**.
 
 <br>
 
@@ -28,7 +28,7 @@ You can find more about my education and social links below.
 ## Contact
 
 - **Website:** [paulosevero.github.io](https://paulosevero.github.io/)
-- **Email:** paulo.severo@edu.pucrs.br
+- **Email:** opaulosevero@gmail.com
 - **Google Scholar Profile:** [https://scholar.google.com/citations?hl=en&user=2TIpYeoAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=2TIpYeoAAAAJ&view_op=list_works&sortby=pubdate)
 - **Curriculum Lattes (Portuguese Only):** [http://lattes.cnpq.br/2653484244901352](http://lattes.cnpq.br/2653484244901352)
 - **LinkedIn:** [https://linkedin.com/in/paulosevero](https://linkedin.com/in/paulosevero)
