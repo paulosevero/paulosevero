@@ -28,7 +28,7 @@ You can find more about my education and social links below.
 ## Contact
 
 - **Website:** [paulosevero.github.io](https://paulosevero.github.io/)
-- **Email:** opaulosevero@gmail.com
+- **Email:** paulosilas@unipampa.edu.br
 - **Google Scholar Profile:** [https://scholar.google.com/citations?hl=en&user=2TIpYeoAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=2TIpYeoAAAAJ&view_op=list_works&sortby=pubdate)
 - **Curriculum Lattes (Portuguese Only):** [http://lattes.cnpq.br/2653484244901352](http://lattes.cnpq.br/2653484244901352)
 - **LinkedIn:** [https://linkedin.com/in/paulosevero](https://linkedin.com/in/paulosevero)
