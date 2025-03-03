@@ -13,7 +13,7 @@ You can find more about my education and social links below.
 ### Ph.D. in Computer Science
 - **Period:** 2020 (March) to 2023 (August)
 - **Institution:** [Pontifical Catholic University of Rio Grande do Sul (PUCRS)](https://www.pucrs.br/en/)
-- **Title:** [Minimizing Latency and Maintenance Time during Server Updates on Edge Computing Infrastructures](https://tede2.pucrs.br/)
+- **Title:** [Minimizing Latency and Maintenance Time during Server Updates on Edge Computing Infrastructures](https://tede2.pucrs.br/tede2/bitstream/tede/11414/2/PAULO_SILAS_SEVERO_DE_SOUZA_TES.pdf)
 
 ### M.Sc. in Computer Science
 - **Period:** 2018 (March) to 2020 (March)
